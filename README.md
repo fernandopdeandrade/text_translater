@@ -19,7 +19,7 @@ pip install googletrans==4.0.0rc1
 pip install tk
 ```
 
--Agora é só executar o arquivo
+- Agora é só executar o arquivo
 
 ```bash
 python3 nome_do_arquivo.py
